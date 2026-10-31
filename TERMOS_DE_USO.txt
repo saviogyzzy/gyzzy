@@ -1,0 +1,111 @@
+GRYZZY — TERMOS DE USO E LICENÇA DE SOFTWARE
+Versão dos termos: GRYZZY-TERMOS-2026-10-30-v2
+Copyright © 2026 GRYZZY. Todos os direitos reservados.
+Criado por Sávio.
+
+1. IDENTIFICAÇÃO E ACEITE
+Estes termos regulam o uso autorizado do aplicativo GRYZZY de gestão
+comercial. O fornecedor responsável, seus dados de identificação, contato,
+preço e condições de suporte devem ser informados na oferta e no documento
+de compra. Leia esses documentos antes de contratar. O aceite no cadastro
+fica registrado localmente, com a versão destes termos e a data.
+
+2. LICENÇA DE USO
+Uma licença regularmente adquirida autoriza seu titular a instalar e usar
+uma cópia do GRYZZY para a gestão de sua própria atividade, no ambiente
+contratado. A aquisição concede direito de uso; não transfere a titularidade
+do programa, da marca ou do código-fonte. Licenças adicionais ou uma mudança
+de equipamento devem observar as condições da oferta e a autorização do
+fornecedor. Cópias de segurança e demais usos permitidos pela lei são
+preservados. O vendedor autorizado pode comercializar licenças oficiais
+nos limites de sua autorização, sem distribuir o emissor privado.
+
+3. USO OFICIAL E PROIBIÇÃO DE PIRATARIA
+Não é permitido distribuir, vender, ceder ou disponibilizar cópias piratas
+ou não autorizadas do GRYZZY; utilizar tokens obtidos ilicitamente;
+compartilhar uma licença para usos não contratados; falsificar tokens;
+remover ou contornar verificações de licença para uso não autorizado;
+ou divulgar uma versão modificada como se fosse uma edição oficial.
+Não é permitido usar o aplicativo como instrumento para fraudes, pirataria
+ou outras atividades ilegais. A instalação de uma cópia não oficial não
+comprova a existência de licença. Preserve seu comprovante de aquisição.
+Estas restrições não afastam as exceções e direitos assegurados pela lei.
+
+4. DIREITOS RESERVADOS E COMPONENTES DE TERCEIROS
+A marca GRYZZY, sua identidade visual e os elementos próprios do aplicativo
+ficam reservados ao respectivo titular, nos limites dos direitos aplicáveis.
+Preserve os avisos de autoria, incluindo "Criado por Sávio" e "Todos os
+direitos reservados à GRYZZY". Bibliotecas e componentes de terceiros
+mantêm suas próprias licenças, constantes em AVISOS_DE_TERCEIROS.txt.
+Estas condições não restringem permissões concedidas por essas licenças.
+
+5. CONTAS, LOJAS E TOKENS
+Cada token de administrador de cliente cria uma loja independente.
+O token 001 é reservado à central administrativa e não abre rotinas de loja.
+Equipe e compartilhamento de dados dentro de uma loja somente ocorrem
+quando seu administrador emite expressamente um convite local de equipe.
+Um administrador não recebe acesso aos dados de outra loja ou cliente.
+O token 001 e o arquivo emissor privado são exclusivos do proprietário
+responsável pela emissão e não devem ser vendidos nem entregues a clientes.
+O administrador de uma loja não recebe automaticamente poder para emitir
+licenças comerciais para outras lojas.
+Os tokens livres são verificados offline; seu consumo é controlado nesta
+instalação. Isso não constitui garantia de uso único global em computadores
+diferentes. Tokens vinculados a um código de instalação só são aceitos no
+ambiente correspondente. Não há servidor de licenciamento nesta edição.
+A reutilização tecnicamente possível de um token livre não amplia a licença
+contratada nem autoriza cópias adicionais.
+
+6. DADOS E RESPONSABILIDADES DE USO
+Os dados comerciais pertencem ao usuário responsável pela loja. Esta edição
+armazena dados localmente e não os envia automaticamente ao vendedor.
+O usuário deve proteger seu perfil do sistema operacional, senhas, tokens, códigos de
+recuperação e backups, e cadastrar dados pessoais apenas com fundamento
+adequado e respeito às obrigações aplicáveis. Backups JSON exportados são
+legíveis; devem ser guardados de forma segura. Não existe acesso remoto
+oculto do vendedor às contas dos clientes.
+
+7. FUNCIONALIDADES E LIMITAÇÕES
+O GRYZZY auxilia no registro de vendas, estoque, caixa, financeiro e
+orçamentos. Comprovantes e propostas não são documentos fiscais. Esta
+edição não emite NF-e/NFC-e, não processa pagamentos bancários e não substitui
+serviços contábeis ou obrigações fiscais. Registros de Pix e cartões exigem
+confirmação do recebimento fora do aplicativo. Nenhum sistema garante
+ausência absoluta de falhas ou invulnerabilidade; mantenha backups e confira
+os registros relevantes para sua atividade.
+
+8. PRAZO TÉCNICO, SUPORTE E ATUALIZAÇÕES
+O prazo de validade técnica desta versão, o canal de atendimento e as
+condições de suporte devem constar expressamente da oferta e do documento
+de aquisição, antes da venda. A permanência de funcionamento de um token
+não representa promessa de suporte perpétuo. A emissão de novos tokens
+compatíveis não exige atualização do programa do cliente. Correções e
+novas funcionalidades podem exigir uma nova versão. O fornecedor deve
+respeitar as obrigações e garantias que lhe sejam aplicáveis.
+
+9. DIREITOS DO USUÁRIO E RESPONSABILIDADE
+Nenhuma cláusula afasta direitos obrigatórios, garantias legais, direitos
+de arrependimento quando cabíveis, responsabilidade por defeitos ou os
+canais de reclamação previstos na legislação aplicável. Reembolso, suporte
+e solução de problemas devem observar a oferta e esses direitos. Eventual
+uso irregular deve ser apurado sem exclusão arbitrária dos dados do usuário.
+
+10. ATUALIZAÇÕES DO APLICATIVO
+Quando um canal HTTPS oficial estiver configurado, o aplicativo poderá
+consultá-lo e baixar versões assinadas em segundo plano. A instalação
+ocorre no fechamento normal ou por solicitação explícita de reinício.
+As consultas usam dados técnicos de conexão, como endereço de rede,
+necessários à hospedagem. Não enviam dados comerciais, senhas, tokens de
+ativação ou a chave privada do emissor. Sem internet, o uso local continua.
+A configuração de um canal não significa suporte ou atualizações perpétuas;
+as condições comerciais e direitos legais aplicáveis permanecem preservados.
+
+11. ENCERRAMENTO E CONTATO
+Interromper o uso não elimina automaticamente os arquivos locais. Antes de
+remover ou substituir o programa, exporte seus dados. Solicitações relativas
+à licença, suporte e regularização devem ser encaminhadas ao fornecedor
+identificado no comprovante de compra ou no canal oficial da contratação.
+
+GRYZZY — Criado por Sávio.
+TODOS OS DIREITOS RESERVADOS À GRYZZY, RESPEITADOS OS DIREITOS DE TERCEIROS
+E AS EXCEÇÕES PREVISTAS EM LEI.

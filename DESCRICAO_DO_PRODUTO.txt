@@ -1,0 +1,87 @@
+GRYZZY — SUA GESTÃO COMERCIAL EM UM SÓ LUGAR
+Criado por Sávio.
+
+Organize a rotina da sua loja com um aplicativo de computador que reúne
+vendas, estoque, caixa, financeiro e orçamentos. O GRYZZY combina navegação
+familiar de um sistema comercial com uma interface atual, organizada em
+módulos para acompanhar o seu negócio no dia a dia.
+
+VENDAS E FRENTE DE CAIXA
+Busca de produtos, montagem da venda, descontos, registro da forma de
+pagamento, cálculo de troco, parcelamento, histórico e cancelamento com
+reposição de estoque. Vendas são validadas antes de alterar os dados.
+Recebimentos são lançamentos manuais, sem confirmação automática de Pix,
+cartão, banco ou adquirente.
+
+ORÇAMENTOS COM A IDENTIDADE DA SUA EMPRESA
+Personalize nome e logotipo da empresa, documentos e contatos, vendedor,
+dados do cliente, produtos e serviços avulsos, preços, descontos, frete,
+acréscimos, validade, condições de pagamento e observações.
+Escolha apresentação, cores e assinatura. Imprima ou salve em PDF.
+Converta o orçamento em venda mantendo os valores combinados.
+Os dados da empresa e os preços ficam registrados no orçamento emitido.
+
+PRODUTOS E ESTOQUE
+Cadastros com SKU, código de barras, categoria, unidade, preço, custo,
+saldo e estoque mínimo. Importação por CSV, entradas, saídas e ajustes
+com motivo. Acompanhamento e validação para evitar saída acima do saldo.
+
+CLIENTES, FORNECEDORES E COMPRAS
+Organize contatos e cadastros comerciais. Registre compras, entrada de
+mercadorias e obrigações financeiras relacionadas.
+
+CAIXA E FINANCEIRO
+Abertura e fechamento, suprimentos e sangrias, conferência de valores,
+contas a pagar/receber, vencimentos, parcelas e baixas manuais.
+Consulte relatórios e exporte informações em CSV para conferência.
+
+CONTAS E PROTEÇÃO LOCAL
+Entrada com usuário e senha e criação de conta por token autorizado.
+Alteração de senha, recuperação por código, bloqueio por tentativas
+repetidas e por inatividade. Cada token comercial inicia uma loja
+independente. Convide a equipe com perfil administrador ou operador.
+Arquivos locais criptografados e chave protegida pelo sistema operacional.
+Nenhum software é imune a invasões; mantenha backups e o sistema protegido.
+
+DADOS E CÓPIAS DE SEGURANÇA
+Trabalhe no computador mesmo sem internet. Seus dados não são
+sincronizados com outras lojas nem enviados ao painel do vendedor.
+Backups automáticos locais e opção de exportar/restaurar o backup da
+loja. Guarde cópias externas; backup JSON exportado contém dados legíveis.
+Não opera como servidor compartilhado por várias máquinas simultâneas.
+
+ATUALIZAÇÕES E INSTALAÇÃO
+Site oficial: https://saviogyzzy.github.io/gyzzy/
+Canal assinado digitalmente, download em segundo plano e verificação de
+integridade. No Windows, instalação ao fechar normalmente. Linux e Mac
+usam instalação guiada do pacote verificado. Novidades dependem de novas
+versões publicadas pelo responsável. Instalador Windows com assistente,
+escolha de pasta e opção de atalho na Área de Trabalho.
+
+COMPATIBILIDADE
+Windows 10/11 x64. Não atende Windows 7/8/8.1, 32 bits ou Windows ARM
+nativo nesta distribuição. Ainda sem certificado Authenticode.
+Linux x64: .deb e AppImage, desktop moderno com Secret Service/GNOME
+Keyring ou KWallet desbloqueado. Referência Ubuntu 22.04/24.04. AppImage
+pode precisar de FUSE 2. Distribuições dependem das bibliotecas do desktop.
+Mac Intel x64 e Apple Silicon arm64: macOS 13 Ventura ou posterior.
+Pacotes Mac experimentais; assinatura Developer ID, notarização Apple e
+validação em Mac ainda são necessárias antes de oferta comercial.
+
+Configuração sugerida: processador de dois núcleos e 64 bits, 4 GB RAM
+(8 GB para mais conforto), 2 GB livres para programa/cache, além do espaço
+de dados/backups, e tela 1280 x 800 ou maior. A janela exige 1000 x 700
+pixels lógicos. Valores de referência, sem mínimo de hardware certificado
+por benchmark. Internet para downloads/atualizações; operação local offline.
+Testes automatizados verificam lógica e estrutura dos pacotes. É necessária
+homologação real nos computadores e sistemas em que será comercializado.
+
+ESCOPO DA VERSÃO
+Gestão e controle interno. Não emite NF-e, NFC-e, SAT ou documentos fiscais;
+recibos/orçamentos não substituem nota fiscal. Não inclui loja virtual,
+sincronização em nuvem, integração bancária ou validação global de tokens
+em servidor. Não há acesso remoto do vendedor aos dados das lojas.
+
+© 2026 GRYZZY. Todos os direitos reservados. Uso sujeito aos termos e à
+licença concedida pelo titular. Distribuição não autorizada e cópias
+piratas são proibidas.

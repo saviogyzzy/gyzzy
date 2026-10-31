@@ -1,0 +1,15 @@
+# Este repositório recebe apenas o catálogo e metadados públicos.
+*.grzissuer
+*.gryzzy
+*.key
+*.pem
+.env*
+*TOKEN*
+*RECUPERACAO*
+*Backup*
+*Codigo_Fonte*
+*.exe
+*.zip
+*.deb
+*.AppImage
+node_modules/

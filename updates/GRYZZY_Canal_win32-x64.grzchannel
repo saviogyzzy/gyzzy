@@ -1,0 +1,5 @@
+{
+  "format": "GRYZZY-SIGNED-UPDATE-1",
+  "payload": "eyJraW5kIjoiR1JZWlpZX0NIQU5ORUwiLCJ2IjoxLCJhdWQiOiJncnl6enktY29tZXJjaWFsLXY0IiwiYmF0Y2giOiI5MWNmN2ViNi0zMjA0LTQxNTYtOTRjMi1iZjI1ZWFhNGViMTciLCJ1cmwiOiJodHRwczovL3NhdmlvZ3l6enkuZ2l0aHViLmlvL2d5enp5L3VwZGF0ZXMvbGF0ZXN0LXdpbjMyLXg2NC5ncnp1cGRhdGUiLCJjcmVhdGVkQXQiOjE3OTM0MTY3ODc0OTl9",
+  "signature": "vAymrGbesmNMgMyr2JQkkir3FvzlsquaQw_gPR5Z2miiywV9wqoE5_dyzdFboCOgO4UwUHvb05OcThmK0evmCQ"
+}
