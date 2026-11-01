@@ -1,7 +1,7 @@
 {
-  "apiBase": "",
-  "salesEnabled": false,
+  "apiBase": "https://gryzzy-licencas-v7.snowycanal1.chatgpt.site",
+  "salesEnabled": true,
   "priceCents": 4999,
   "currency": "BRL",
-  "minimumCompatibleVersion": "6.1.0"
+  "minimumCompatibleVersion": "7.0.0"
 }
