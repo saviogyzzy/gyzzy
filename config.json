@@ -3,5 +3,5 @@
   "salesEnabled": true,
   "priceCents": 4999,
   "currency": "BRL",
-  "minimumCompatibleVersion": "7.0.0"
+  "minimumCompatibleVersion": "7.1.0"
 }
