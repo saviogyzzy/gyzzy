@@ -1,11 +1,16 @@
-# GRYZZY — distribuição oficial
+# GRYZZY — site oficial
 
-Site de downloads e manifestos públicos de atualização do GRYZZY, criado por Sávio.
+Site público de apresentação, downloads, manual e compra de licença. Criado por Sávio.
 
-Os pacotes comerciais ficam em Releases; os arquivos pequenos de atualização ficam em `updates/`. O aplicativo confere as assinaturas usando a chave pública incorporada. As lojas e suas contas continuam locais e independentes.
+- `index.html`: apresentação do programa.
+- `downloads/`: instaladores existentes da edição 6.0.0.
+- `manual/`: 26 guias e busca. Manter a pasta inteira ao enviar arquivos.
+- `comprar/`: compra e acompanhamento de licença. Depende do serviço privado de pagamentos.
+- `config.json`: somente endereço público do serviço; sem credenciais.
+- `updates/`: canais e manifestos assinados preservados.
 
-Não colocar neste repositório: tokens, emissor privado, senhas, códigos de recuperação, dados de lojas, backups ou código proprietário completo.
+As compras permanecem desativadas até configurar o recebimento e publicar os aplicativos compatíveis com a nova chave. A edição desktop 6.0.0 original não aceita os novos tokens.
 
-Esta versão não emite documentos fiscais e não integra pagamentos. Mac: pacotes experimentais sem assinatura/notarização Apple. Consulte a descrição e os termos publicados.
+Não publicar tokens, emissor privado, chaves, senhas, backups de lojas ou código proprietário do aplicativo neste repositório. O servidor e os fontes Android são entregues separadamente ao proprietário.
 
-Todos os direitos reservados à GRYZZY. Este repositório não concede licença de código aberto para o aplicativo.
+Todos os direitos reservados à GRYZZY.

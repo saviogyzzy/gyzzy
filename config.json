@@ -1,0 +1,7 @@
+{
+  "apiBase": "",
+  "salesEnabled": false,
+  "priceCents": 4999,
+  "currency": "BRL",
+  "minimumCompatibleVersion": "6.1.0"
+}
