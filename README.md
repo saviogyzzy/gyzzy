@@ -1,16 +1,11 @@
-# GRYZZY — site oficial
+# GRYZZY
 
-Site público de apresentação, downloads, manual e compra de licença. Criado por Sávio.
+Site oficial com downloads, manual e compra de licenças.
 
-- `index.html`: apresentação do programa.
-- `downloads/`: instaladores existentes da edição 6.0.0.
-- `manual/`: 26 guias e busca. Manter a pasta inteira ao enviar arquivos.
-- `comprar/`: compra e acompanhamento de licença. Depende do serviço privado de pagamentos.
-- `config.json`: somente endereço público do serviço; sem credenciais.
-- `updates/`: canais e manifestos assinados preservados.
+- [Baixar GRYZZY 7.2.0](https://github.com/saviogyzzy/gyzzy/releases/tag/v7.2.0)
+- [Manual](https://saviogyzzy.github.io/gyzzy/manual/)
+- [Compra de licença](https://saviogyzzy.github.io/gyzzy/comprar/)
 
-As compras permanecem desativadas até configurar o recebimento e publicar os aplicativos compatíveis com a nova chave. A edição desktop 6.0.0 original não aceita os novos tokens.
+As vendas dependem da configuração e da confirmação do Mercado Pago no servidor. Os instaladores ficam nas releases. O código do servidor, as credenciais e os backups ficam privados.
 
-Não publicar tokens, emissor privado, chaves, senhas, backups de lojas ou código proprietário do aplicativo neste repositório. O servidor e os fontes Android são entregues separadamente ao proprietário.
-
-Todos os direitos reservados à GRYZZY.
+Criado por Sávio. Todos os direitos reservados ao GRYZZY.
