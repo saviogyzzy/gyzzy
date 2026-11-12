@@ -2,7 +2,7 @@
 
 Site oficial com downloads, manual e compra de licenças.
 
-- [Baixar GRYZZY 7.2.0](https://github.com/saviogyzzy/gyzzy/releases/tag/v7.2.0)
+- [Baixar GRYZZY 7.2.1](https://github.com/saviogyzzy/gyzzy/releases/tag/v7.2.1)
 - [Manual](https://saviogyzzy.github.io/gyzzy/manual/)
 - [Compra de licença](https://saviogyzzy.github.io/gyzzy/comprar/)
 
